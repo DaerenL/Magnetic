@@ -10,3 +10,4 @@ class Track(BaseModel):
     cover_art_url: str
     bpm: Optional[float] = None
     duration_seconds: Optional[float] = None
+
